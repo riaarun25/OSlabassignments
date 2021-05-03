@@ -82,7 +82,7 @@ int main()
 
 --------------------------------------------------------------------------------------
 
-# Make a process sleep for a few seconds #
+# Make a process sleep #
 
 #include<stdio.h>
 void main()
@@ -97,7 +97,7 @@ void main()
 
 --------------------------------------------------------------------------------------
 
-# Thread to check if a number is prime or not #
+# Thread to check whether a number is prime or composite #
 
 #include <stdio.h>
 #include <pthread.h>
